@@ -1,5 +1,5 @@
 # Netflix Advanced Data Science Bootcamp 
-## Homework/Pproject submission
+## Homework/Project submission
 ### Author: Vu Pham
 ### Institution: Norfolk State University
 ---
