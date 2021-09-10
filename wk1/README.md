@@ -18,7 +18,7 @@ The CSV file you will import contains [S&P 500 stock market data retrieved from 
 
    * **Note:** Percent change is calculated by the following formula:
 
-      * (`Closing price` - `Opening price` / `Opening Price`) * 100
+      * ((`Closing price` - `Opening price`) / `Opening Price`) * 100
 
 6. While looping through each row, determine which day had the absolute greatest percent daily change. 
 
