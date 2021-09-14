@@ -3,7 +3,7 @@
 ### Author: Vu Pham
 ### Institution: Norfolk State University
 ---
-*science engineering, and life*  
+*science, engineering, and life*  
 *long distance running*  
 *music and playing guitar*  
 ---
